@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, I'm Samrah Khanzada</h1>
+<h1 align="center">👋 Hello, I'm Samrah Khanzada</h1>
+<h3 align="center">Frontend Developer | Web Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samrahkhanzada&label=Profile%20views&color=0e75b6&style=flat" alt="samrahkhanzada" /> </p>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samrahkhanzada&label=Profile%20views&color=blue&style=flat" alt="samrahkhanzada" /> 
+</p>
 
-🌱 I’m currently learning App & Web development✨<br>
-📫 How to reach me samrahsajidkhanzada@gmail.com
+<div align="center">
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639666334303130363333613631333532383934373930353834313938362f313537343038303631313731322d5445363451474b524a4738535741495553374e532f6d656469612f676966.gif" width="400" alt="coding">
+</div>
 
-<h1>💻 Tech Stack:</h1> 
-<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*gReLR6hZjwyBxHmfLN1AVw.gif"> -->
+## 💫 About Me
+- 🌱 Currently learning **React and Node.js**
+- 💻 Working on personal web projects
+- 📧 Contact me: samrahsajidkhanzada@gmail.com
+- 🎨 Love creating beautiful, functional interfaces
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samrahkhanzada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=samrahkhanzada&icon=0&color=0)](https://visitcount.itsvg.in)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrahkhanzada&" alt="samrahkhanzada" /></p>
+## 🛠️ My Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=samrahkhanzada&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrahkhanzada&layout=compact&theme=radical" />
+</div>
+
+<!-- <p align="center">
+   <img src="https://streak-stats.demolab.com?user=samrahkhanzada&theme=radical" alt="GitHub Streak" /> 
+ </p> -->
+
+## 🌐 Let's Connect
+<p align="center">
+  <a href="mailto:samrahsajidkhanzada@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/samrah-khanzada">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
