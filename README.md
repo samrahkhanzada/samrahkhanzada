@@ -27,9 +27,9 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrahkhanzada&layout=compact&theme=radical" />
 </div>
 
-<!-- <p align="center">
+ <p align="center">
    <img src="https://streak-stats.demolab.com?user=samrahkhanzada&theme=radical" alt="GitHub Streak" /> 
- </p> -->
+ </p> 
 
 ## 🌐 Let's Connect
 <p align="center">
