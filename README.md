@@ -40,3 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+</br></br>
+<center>
+<img src="https://profile-readme-generator.com/assets/snake.svg">
+</center>
