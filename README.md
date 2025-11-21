@@ -42,5 +42,5 @@
 </p>
 </br></br>
 <center>
-<img src="https://profile-readme-generator.com/assets/snake.svg">
+<img src="https://profile-readme-generator.com/assets/pacman.svg">
 </center>
